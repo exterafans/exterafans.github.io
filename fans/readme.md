@@ -217,4 +217,7 @@ administrator @exteraAdmin
 EBAL VSEH V POPOCHKU
 
 Legenda @negrmefedron любит экстру
+
 чувачок: @oldn1rb7xx супер кулибяка
+
+[I use arch btw... @Xibsy]
