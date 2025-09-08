@@ -1,6 +1,5 @@
 # tg: https://t.me/exterafans
 # bot: https://t.me/exterafansbot
-# fans: https://exterafans.github.io/fans/
 
 Правила написания заявки боту:
 1. В сообщении обязательно должен быть твой @username.
