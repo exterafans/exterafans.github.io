@@ -1,0 +1,12 @@
+
+/* Satoshi */
+/* Source: https://api.fontshare.com/v2/css?f[]=satoshi@1&display=swap */
+@font-face {
+  font-family: 'Satoshi';
+  src: url('https://assets.guns.lol/fonts/X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.woff2') format('woff2'),
+       url('https://assets.guns.lol/fonts/X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.woff') format('woff'),
+       url('https://assets.guns.lol/fonts/X6XYTKIVDUW7GZTZPZNN4EUM5KH54KHF.ttf') format('truetype');
+  font-weight: 300 900;
+  font-display: swap;
+  font-style: normal;
+}
